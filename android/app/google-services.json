@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "9016352221",
+    "project_id": "walking-fashion",
+    "storage_bucket": "walking-fashion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9016352221:android:fddcd586e9206db8492a34",
+        "android_client_info": {
+          "package_name": "com.example.walkingfashion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9016352221-ijh8f8e9bumolqfk02l92q4v4978h006.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walkingfashion",
+            "certificate_hash": "10260001f552cfe87596beba6be65f8cc00c5677"
+          }
+        },
+        {
+          "client_id": "9016352221-394grr1bdt5dcfvndanqkohe1suih4p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV82jzjl5E_c75tBMNjblvhMKU7WqXc6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9016352221-394grr1bdt5dcfvndanqkohe1suih4p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
